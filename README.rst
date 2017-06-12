@@ -28,6 +28,10 @@ Introduction
 .. image:
 http://imglf2.nosdn.127.net/img/bS9RU1VmT1M3bWxqazFhSy9tOFlSMndlbjlqVWx5NkpncmtwVHVQOWx3SzhVL0Z2aU4xQlNBPT0.png?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg
 
+备注:这个是道长的代码,和selenium最新代码merge之后的代码.
+主要就几个方法
+
+
 Selenium2Library is a web testing library for `Robot Framework`_
 that leverages the `Selenium 2 (WebDriver)`_ libraries from the
 Selenium_ project.
