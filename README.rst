@@ -24,6 +24,10 @@ Selenium 2 (WebDriver) library for Robot Framework
 Introduction
 ------------
 
+备注:这个是道长的代码,和selenium最新代码merge之后的代码.
+主要就几个方法
+
+
 Selenium2Library is a web testing library for `Robot Framework`_
 that leverages the `Selenium 2 (WebDriver)`_ libraries from the
 Selenium_ project.
